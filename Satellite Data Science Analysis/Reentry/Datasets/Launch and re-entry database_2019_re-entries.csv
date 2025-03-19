@@ -1,0 +1,189 @@
+﻿Re-entry details,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Controlled?,Time (UTC),Day,Month ,Year,Latitude,Longitude ,Name,Type,Part,Booster separation altitude (km) ,Booster mass (km),First stage mass (km),Second stage mass (km) ,Total Mass (km),NOx from re-entry (km)
+N,1.517,1,1,2019,7.823,54.164,CZ-2D,Rocket body,,,,,,5500,5500
+N,7.967,5,1,2019,-43.753,-179.976,Cosmos 2430,Payload,,,,,,1900,1900
+N,9.533,5,1,2019,-1.205,89.746,Faclon 9,Rocket body,Second stage,,,,,4500,4500
+N,17.133,10,1,2019,28.246,102.027,CZ-3B/G3,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+Y,15.567,11,1,2019,34.632,-120.611,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,0.500,15,1,2019,35.238,53.951,Simorgh,Rocket body,,,,12700,1600,14300,14300
+N,12.950,16,1,2019,-37.629,-179.991,Prognoz 6 ,Payload,,,,,,910,910
+N,8.433,17,1,2019,-45.994,38.681,PSLV,Rocket body,,,,,,920,920
+N,0.883,18,1,2019,31.251,131.082,Epsilon (2) CLPS,Rocket body,First stage,,0,9300,2200,11500,11500
+N,19.133,19,1,2019,34.582,-120.626,Delta-4H (upg.),Rocket body,First stage & boosters,74,56000,28000,,84000,84000
+N,14.683,20,1,2019,27.819,-113.503,CZ-3B,Rocket body,,,,,,2740,2740
+N,5.750,21,1,2019,40.961,100.298,CZ-11,Rocket body,First stage,,0,4770,2500,7270,7270
+N,21.367,23,1,2019,-70.307,-164.132,Iridium 90,Payload,,,,,,689,689
+N,18.167,24,1,2019,13.720,80.230,PSLV-DL,Rocket body,First stage & boosters,40,,30000,5400,35400,35400
+N,9.117,28,1,2019,72.462,74.34,CZ-11,Rocket body,,,,,,2000,2000
+N,11.533,30,1,2019,47.918,15.971,Electron,Rocket body,,,,,,250,250
+N,3.600,5,2,2019,-77.717,-77.425,CZ-2C,Rocket body,,,,,,3200,3200
+N,9.017,5,2,2019,35.234,53.921,Safir-1B,Rocket body,,,,3500,350,3850,1925
+N,19.183,5,2,2019,-27.745,156.759,SL-6 (2),Rocket body,,,,,,1050,1050
+N,21.067,5,2,2019,5.239,-52.769,Ariane-5ECA,Rocket body,First stage & boosters,60,76000,14000,,90000,90000
+N,16.833,21,2,2019,45.996,63.564,Soyuz-2-1b Fregat-M,Rocket body,First stage & boosters,48,,,6550,6550,6550
+Y,1.800,22,2,2019,28.41,-80.61,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,22.983,24,2,2019,0.128,-136.554,Ariane 44L,Rocket body,,,,,,1700,1700
+N,21.667,27,2,2019,5.301,-52.837,Soyuz-ST-B Fregat-M,Rocket body,First stage & boosters,48,,,6550,6550,6550
+Y,7.867,2,3,2019,28.41,-80.61,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,9.200,2,3,2019,33.2449,3.017,RemDeb NET,Payload,,,,,,1000,1000
+N,18.850,2,3,2019,17.766,32.196,IRNSS 1H/PSLV,Payload,,,,,,594,594
+N,12.233,3,3,2019,35.839,103.55,Electon ,Rocket body,,,,,,250,250
+Y,13.750,3,3,2019,27.564,-76.419,Crew Dragon,Payload,,,,,,12525,2191.875
+N,17.517,9,3,2019,28.247,102.029,CZ-3B/G3,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+N,1.600,10,3,2019,11.29,-5.785,CZ-3B,Rocket body,,,,,,2740,2740
+N,6.850,10,3,2019,7.126,20.933,Ariane 5 Deb (SYLDA),Debris,,,,,,535,535
+N,14.900,10,3,2019,-79.729,-171.02,Iridium 32,Payload,,,,,,689,689
+N,11.400,11,3,2019,74.806,-169.262,Iridium 59,Payload,,,,,,689,689
+N,2.183,12,3,2019,-36.507,152.769,CZ-2C,Debris,,,,,,3200,3200
+N,8.483,13,3,2019,13.35,82.808,Iridium 91,Payload,,,,,,689,689
+N,19.283,14,3,2019,45.920,63.342,Soyuz-FG,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,4.717,15,3,2019,-50.887,72.261,Iridium 14,Payload,,,,,,689,689
+N,0.483,16,3,2019,28.531,-80.565,"Delta-4M+(5,4) (upg.)",Rocket body,First stage & boosters,35,,28000,,28000,28000
+N,5.283,17,3,2019,52.122,-49.731,Iridium 60,Payload,,,,,,689,689
+N,14.333,17,3,2019,-41.949,7.222,SL-4,Rocket body,,,,,,2400,2400
+N,1.883,22,3,2019,5.236,-52.775,Vega,Rocket body,First stage,,0,8650,1900,10550,10550
+N,2.650,24,3,2019,-45.994,151.011,SL-6,Rocket body,,,,,,1050,1050
+N,19.383,25,3,2019,74.527,-91.567,Iridium 95,Payload,,,,,,689,689
+N,9.667,27,3,2019,40.961,100.298,OS-M1,Rocket body,First stage,,,,,1010,505
+N,23.500,28,3,2019,-39.251,177.867,Electron KS,Rocket body,First stage,,0,950,,950,950
+N,7.667,31,3,2019,-42.21,64.527,Iridium 55,Payload,,,,,,689,689
+N,15.883,31,3,2019,28.246,102.027,CZ-3B/G3,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+N,4.000,1,4,2019,13.720,80.230,PSLV-QL,Rocket body,First stage & boosters,40,,30000,5400,35400,35400
+N,20.150,1,4,2019,8.867,-4.379,Iridium 64,Payload,,,,,,689,689
+N,11.067,4,4,2019,45.996,63.564,Soyuz-2-1a,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,17.100,4,4,2019,5.301,-52.837,Soyuz-ST-B Fregat-MT,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,22.767,4,4,2019,-20.855,-104.926,GSLV Mk II,Rocket body,,,,,,2500,2500
+N,20.067,5,4,2019,-26.958,23.043,H-1,Rocket body,,,,,,1000,1000
+N,9.950,7,4,2019,-46.481,-154.496,Iridium 58,Payload,,,,,,689,689
+N,2.633,9,4,2019,47.594,-113.012,Breeze-M,Debris,,,,,,2370,2370
+Y,22.633,11,4,2019,28.486,-80.544,Falcon-Heavy (Block 5),Rocket body,First stage & boosters,61,34000,17000,,51000,8925
+N,2.333,15,4,2019,-19.867,178.433,Falcon 9,Rocket body,Second stage,,,,,4500,4500
+N,4.983,15,4,2019,-1.293,60.66,Electron,Rocket body,,,,,,250,250
+N,20.817,17,4,2019,37.833,-75.488,Antares-230,Rocket body,First stage,,0,20600,,20600,20600
+N,14.733,20,4,2019,28.247,102.029,CZ-3B/G3,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+N,14.300,28,4,2019,-21.838,10.386,Antares,Rocket body,,,,,,2100,2100
+N,16.267,29,4,2019,17.417,64.527,GSLV Mk II,Rocket body,,,,,,2500,2500
+N,22.917,29,4,2019,38.863,111.589,CZ-4B,Rocket body,First stage,,0,9500,4000,13500,13500
+N,0.083,30,4,2019,55.244,-146.059,CZ-2C,Rocket body,,,,,,3200,3200
+Y,6.850,4,5,2019,28.41,-80.61,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,6.050,5,5,2019,-39.251,177.867,Electron KS,Rocket body,First stage,,0,950,,950,950
+N,13.817,7,5,2019,-6.901,-116.879,Ariane 5 Deb (SYLDA),Debris,,,,,,535,535
+N,16.867,7,5,2019,25.268,-156.606,Breeze-M,Debris,,,,,,2370,2370
+N,7.483,11,5,2019,43.405,78.729,Iridium 54,Payload,,,,,,689,689
+N,9.050,12,5,2019,-22.817,99.471,Iridium 24,Payload,,,,,,689,689
+N,13.067,12,5,2019,4.324,-172.287,GSLV Mk III,Rocket body,,,,,,5000,5000
+N,1.033,15,5,2019,-63.5,92.44,SL-4,Rocket body,,,,,,2400,2400
+N,15.850,17,5,2019,28.246,102.027,CZ-3C/G2,Rocket body,First stage & boosters,50,7800,9800,4000,21600,21600
+N,16.817,17,5,2019,-13.134,-139.943,Electron,Rocket body,,,,,,250,250
+N,0.000,22,5,2019,13.720,80.230,PSLV-CA,Rocket body,First stage,,0,30000,5400,35400,35400
+N,22.867,22,5,2019,38.863,111.589,CZ-4C,Rocket body,First stage,,0,9500,4000,13500,13500
+Y,2.550,24,5,2019,28.41,-80.61,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,6.433,27,5,2019,62.929,40.457,Soyuz-2-1b Fregat-M,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,22.267,27,5,2019,22.37,-70.685,Delta 1 ,Rocket body,,,,,,65,65
+N,17.750,30,5,2019,46.040,63.032,Proton-M Briz-M (Ph.3),Rocket body,First stage,,0,30600,11000,41600,41600
+N,4.150,5,6,2019,34.900,121.190,CZ-11H,Rocket body,First stage,,0,4770,2500,7270,7270
+N,7.533,10,6,2019,-19.871,-80.178,Delta 1 ,Rocket body,,,,,,65,65
+Y,14.333,12,6,2019,34.633,-120.613,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,5.533,15,6,2019,6.074,-41.857,Ariane 5 Deb (SYLDA),Debris,,,,,,535,535
+N,21.767,20,6,2019,5.239,-52.769,Ariane-5ECA,Rocket body,First stage & boosters,60,76000,14000,,90000,90000
+N,18.200,24,6,2019,28.247,102.029,CZ-3B/G3,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+Y,2.800,25,6,2019,47.416,69.585,Soyuz MS,Payload,,,,,,7080,1239
+Y,6.550,25,6,2019,28.486,-80.544,Falcon-Heavy (Block 5),Rocket body,First stage & boosters,61,34000,17000,,51000,8925
+N,4.550,29,6,2019,-39.251,177.867,Electron KS,Rocket body,First stage,,0,950,,950,950
+N,23.000,29,6,2019,-15.179,-64.709,Breeze-M (TANK),Debris,,,,,,2370,2370
+N,6.583,3,7,2019,17.748,-37.99,CZ-3B,Rocket body,,,,,,2740,2740
+N,6.600,3,7,2019,27.469,32.674,Electron,Rocket body,,,,,,250,250
+N,15.067,4,7,2019,-52.373,91.174,CZ-3B,Rocket body,,,,,,2740,2740
+N,5.733,5,7,2019,51.885,128.335,Soyuz-2-1b Fregat-M,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,17.283,10,7,2019,62.929,40.457,Soyuz-2-1v Volga,Rocket body,First stage,,0,4900,,4900,4900
+N,1.933,11,7,2019,5.236,-52.775,Vega,Rocket body,First stage,,0,8650,1900,10550,10550
+N,12.567,13,7,2019,46.071,62.985,Proton-M Blok-DM-03,Rocket body,First stage,,0,30600,11000,41600,41600
+N,7.583,20,7,2019,-3.474,-64.99,CZ-3B,Rocket body,,,,,,2740,2740
+N,16.517,20,7,2019,45.920,63.342,Soyuz-FG,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,9.267,22,7,2019,13.720,80.230,GSLV Mk.3 (2),Rocket body,First stage & boosters,62,62600,10600,,73200,73200
+N,10.983,23,7,2019,34.629,66.846,Iridium 61,Payload,,,,,,689,689
+N,3.700,24,7,2019,-35.429,142.713,SL-4,Rocket body,,,,,,2400,2400
+N,5.050,25,7,2019,40.968,100.279,Hyperbola-1 (Shian Quxian-1),Rocket body,First stage,,0,2000,750,2750,2750
+Y,22.083,25,7,2019,28.486,-80.544,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,4.000,26,7,2019,28.247,102.029,CZ-2C (3),Rocket body,First stage,,0,10000,,10000,10000
+N,5.983,30,7,2019,62.929,40.457,Soyuz-2-1a Fregat-M,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,12.233,31,7,2019,45.996,63.564,Soyuz-2-1a,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,0.900,3,8,2019,-49.128,34.08,Dragon-CRS-18,Debris,,,,,,4200,4200
+N,1.067,4,8,2019,-7.501,145.519,SL-4,Rocket body,,,,,,2400,2400
+N,19.550,6,8,2019,5.239,-52.769,Ariane-5ECA+,Rocket body,First stage & boosters,60,76000,14000,,90000,90000
+N,21.983,6,8,2019,46.071,62.985,Proton-M Briz-M (Ph.3),Rocket body,First stage,,0,30600,,30600,30600
+Y,23.867,6,8,2019,28.41,-80.61,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,11.033,7,8,2019,18.125,-21.147,Epsilon,Debris,,,,,,1000,1000
+N,0.417,8,8,2019,-57.037,54.084,Molniya 3-7,Payload,,,,,,1750,1750
+N,10.267,8,8,2019,28.583,-80.583,Atlas-5(551),Rocket body,First stage & boosters,48,,20740,,20740,20740
+N,4.283,17,8,2019,40.961,100.298,Jielong-1,Rocket body,First stage,,0,1000,,1000,1000
+N,12.100,19,8,2019,28.246,102.027,CZ-3B/G2,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+N,12.250,19,8,2019,-39.251,177.867,Electron KS,Rocket body,First stage,,0,950,,950,950
+N,3.683,22,8,2019,45.996,63.564,Soyuz-2-1a,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,13.150,22,8,2019,28.531,-80.565,"Delta-4M+(4,2) (upg.)",Rocket body,First stage & boosters,35,,28000,,28000,28000
+N,6.667,26,8,2019,-19.923,134.828,SL-4,Rocket body,,,,,,2400,2400
+N,18.967,29,8,2019,-59.409,59.231,SL-6,Rocket body,,,,,,1050,1050
+N,14.050,30,8,2019,62.887,40.847,Rokot-KM,Rocket body,First stage,,0,5700,1485,7185,7185
+N,23.733,30,8,2019,40.972,100.364,Kuaizhou-1A,Rocket body,First stage,,0,3000,1500,4500,4500
+N,23.983,30,8,2019,-16.09,116.854,Delta 2 (PAM-D),Rocket body,,,,,,155,155
+N,3.483,12,9,2019,38.863,111.589,CZ-4B,Rocket body,First stage,,0,9500,4000,13500,13500
+N,6.750,19,9,2019,40.961,100.298,CZ-11,Rocket body,First stage,,0,4770,2500,7270,7270
+N,21.217,22,9,2019,28.246,102.027,CZ-3B/G3Z,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+N,16.133,24,9,2019,30.401,130.975,H-2B-304,Rocket body,First stage & boosters,64,44000,24200,,68200,68200
+N,0.950,25,9,2019,40.961,100.298,CZ-2D (2),Rocket body,First stage,,0,9500,,9500,9500
+N,14.017,25,9,2019,45.920,63.342,Soyuz-FG,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,7.817,26,9,2019,62.929,40.457,Soyuz-2-1b Fregat-M,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,15.417,28,9,2019,43.915,16.357,SL-4,Rocket body,,,,,,2400,2400
+Y,10.983,3,10,2019,47.401,69.571,Soyuz MS,Payload,,,,,,7080,1239
+N,18.900,4,10,2019,38.863,111.589,CZ-4C,Rocket body,First stage,,0,9500,4000,13500,13500
+N,21.000,4,10,2019,-45.482,-135.601,CZ-3C,Rocket body,,,,,,2740,2740
+N,10.333,9,10,2019,46.040,63.032,Proton-M Briz-M (Ph.4),Rocket body,First stage,,0,30600,11000,41600,41600
+N,2.050,11,10,2019,28.406,-80.605,Pegasus-XL,Rocket body,First stage,,0,1370,420,1790,1790
+N,15.450,15,10,2019,-8.264,-171.109,SL-6,Rocket body,,,,,,1050,1050
+N,11.950,16,10,2019,-17.506,64.086,PSLV,Rocket body,,,,,,920,920
+N,1.417,17,10,2019,-39.251,177.867,Electron KS,Rocket body,First stage,,0,950,,950,950
+N,15.400,17,10,2019,28.247,102.029,CZ-3B/G3,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+N,6.750,22,10,2019,-29.102,-90.25,CZ-3B,Rocket body,,,,,,2740,2740
+N,0.300,28,10,2019,-17.17,-36.812,CZ-3B,Rocket body,,,,,,2740,2740
+N,14.050,2,11,2019,37.833,-75.488,Antares-230+,Rocket body,First stage,,0,20600,,20600,20600
+N,3.417,3,11,2019,38.863,111.589,CZ-4B,Rocket body,First stage,,0,9500,4000,13500,13500
+N,17.767,4,11,2019,28.246,102.027,CZ-3B/G3,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+Y,14.983,11,11,2019,28.41,-80.61,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,3.717,13,11,2019,40.972,100.364,Kuaizhou-1A,Rocket body,First stage,,0,3000,1500,4500,4500
+N,6.633,13,11,2019,38.868,111.580,CZ-6,Rocket body,First stage,,0,7530,1490,9020,9020
+N,10.050,17,11,2019,40.972,100.364,Kuaizhou-1A,Rocket body,First stage,,0,3000,1500,4500,4500
+N,18.933,17,11,2019,44.395,29.161,CZ-3B,Debris,,,,,,2740,2740
+N,19.067,17,11,2019,-54.063,100.958,PSLV,Debris,,,,,,920,920
+N,2.233,19,11,2019,-78.416,89.119,KZ-1A,Rocket body,,,,,,1500,1500
+N,9.033,19,11,2019,14.044,142.406,Atlas 5 Centaur,Rocket body,,,,,,2243,2243
+N,20.767,22,11,2019,-60.35,-63.527,Cosmos 2422,Payload,,,,,,1415,1415
+N,0.967,23,11,2019,28.247,102.029,CZ-3B/G3Z,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+N,17.917,25,11,2019,62.929,40.457,Soyuz-2-1v Volga,Rocket body,First stage,,0,4900,,4900,4900
+N,21.433,26,11,2019,5.239,-52.769,Ariane-5ECA,Rocket body,First stage & boosters,60,76000,14000,,90000,90000
+N,4.017,27,11,2019,13.720,80.230,PSLV-XL,Rocket body,First stage & boosters,40,,30000,5400,35400,35400
+N,8.183,27,11,2019,-5.079,-62.841,CZ-3C,Rocket body,,,,,,2740,2740
+N,23.917,27,11,2019,38.863,111.589,CZ-4C,Rocket body,First stage,,0,9500,4000,13500,13500
+N,11.600,4,12,2019,16.958,-56.667,GSLV Mk II,Rocket body,,,,,,2500,2500
+N,11.900,4,12,2019,-56.926,48.985,CZ-3A,Rocket body,,,,,,2740,2740
+Y,17.533,5,12,2019,28.41,-80.61,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,8.350,6,12,2019,-39.251,177.867,Electron KS,Rocket body,First stage,,0,950,,950,950
+N,9.617,6,12,2019,45.996,63.564,Soyuz-2-1a,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,2.967,7,12,2019,38.849,111.608,Kuaizhou-1A,Rocket body,First stage,,0,3000,1500,4500,4500
+N,8.917,7,12,2019,38.868,111.580,Kuaizhou-1A,Rocket body,First stage,,0,3000,1500,4500,4500
+N,1.450,11,12,2019,-61.387,-97.49,SL-6,Rocket body,,,,,,1050,1050
+N,8.967,11,12,2019,62.927,40.450,Soyuz-2-1b Fregat-M,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,9.967,11,12,2019,13.720,80.230,PSLV-QL,Rocket body,First stage & boosters,40,,30000,5400,35400,35400
+N,7.417,16,12,2019,28.247,102.029,CZ-3B/G3Z,Rocket body,First stage & boosters,50,15600,9800,4000,29400,14700
+Y,0.217,17,12,2019,28.41,-80.61,Falcon-9 v1.2 (Block 5),Rocket body,First stage,,0,27200,,27200,4760
+N,2.767,18,12,2019,-53.894,98.02,Electron,Rocket body,,,,,,250,250
+N,8.950,18,12,2019,5.301,-52.837,Soyuz-ST-A Fregat-M,Rocket body,First stage & boosters,48,,,6550,6550,6550
+N,3.417,20,12,2019,38.863,111.589,CZ-4B,Rocket body,First stage,,0,9500,4000,13500,13500
+N,11.667,20,12,2019,28.583,-80.583,Atlas-5(N22),Rocket body,First stage & boosters,48,,20740,,20740,20740
+Y,14.317,22,12,2019,32.943,-106.420,Starliner,Payload,,,,,,13000,2275
+N,12.100,24,12,2019,46.071,62.985,Proton-M Blok-DM-03,Rocket body,First stage,,0,30600,11000,41600,41600
+N,23.250,26,12,2019,62.887,40.847,Rokot-KM,Rocket body,First stage,,0,5700,1485,7185,7185
+N,12.800,27,12,2019,19.614,110.951,CZ-5,Rocket body,First stage & boosters,72,50000,17000,,67000,67000
+N,17.033,27,12,2019,14.175,-60.801,Iridium 97,Payload,,,,,,689,689
+N,17.217,31,12,2019,24.96,50.842,DM-F3,Payload,,,,,,4348,4348
+,,,,,,,,,,,,,,,1.92E+06
