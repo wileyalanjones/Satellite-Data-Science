@@ -10,4 +10,8 @@ The other folder have a mixed of the datasets used for the analysis and the pyth
 
 The datasets were all downloaded directly from the internet. Please reference the paper where full citiations have been made for the data.
 
-The python files are divided into **cleaning files**, **KMeans Analysis**, and **Decision Trees Analysis**.
+The python files are divided into **Cleaning files**, **KMeans Analysis**, and **Decision Trees Analysis**.
+
+All data science was done with sklearn pacakages with pandas and numpy. 
+
+Visualizations were all done with Matplotlib and Seaborn. 
