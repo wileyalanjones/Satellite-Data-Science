@@ -2,22 +2,21 @@
 
 This repository contains my Intro to Applied Data Science project: an analysis of satellite data using machine learning and data visualization techniques.
 
-On the front page, you’ll find the full paper: CS 332 Project Report
-, which details the methodology, experiments, and results.
+On the front page, you’ll find the full paper: CS 332 Project Report, which details the methodology, experiments, and results.
 
 📂 Repository Structure
 
-📄 CS 332 Project Report → Main paper describing the analysis, methodology, and results.
+* 📄 CS 332 Project Report → Main paper describing the analysis, methodology, and results.
 
-📁 Datasets → Raw datasets used in the analysis (downloaded from public sources, with full citations available in the paper).
+* 📁 Datasets → Raw datasets used in the analysis (downloaded from public sources, with full citations available in the paper).
 
-📁 Python Files →
+* 📁 Python Files →
 
-Cleaning → Data preprocessing scripts.
+  * Cleaning → Data preprocessing scripts.
 
-KMeans Analysis → Clustering analysis using KMeans.
+  * KMeans Analysis → Clustering analysis using KMeans.
 
-Decision Trees Analysis → Classification and prediction experiments.
+  * Decision Trees Analysis → Classification and prediction experiments.
 
 🛠️ Tools & Libraries
 
