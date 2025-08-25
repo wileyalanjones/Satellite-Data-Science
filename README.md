@@ -20,45 +20,46 @@ On the front page, you’ll find the full paper: CS 332 Project Report, which de
 
 🛠️ Tools & Libraries
 
-Data Handling: Pandas, NumPy
+* Data Handling: Pandas, NumPy
 
-Machine Learning: Scikit-learn (KMeans, Decision Trees, preprocessing)
+* Machine Learning: Scikit-learn (KMeans, Decision Trees, preprocessing)
 
-Visualization: Matplotlib, Seaborn
+* Visualization: Matplotlib, Seaborn
 
 🔍 Key Highlights
 
-Performed data cleaning and preprocessing on raw satellite datasets.
+* Performed data cleaning and preprocessing on raw satellite datasets.
 
-Applied KMeans clustering to uncover patterns in the data.
+* Applied KMeans clustering to uncover patterns in the data.
 
-Built and evaluated Decision Tree models for classification tasks.
+* Built and evaluated Decision Tree models for classification tasks.
 
-Created visualizations to communicate insights effectively.
+* Created visualizations to communicate insights effectively.
 
 📖 Citations
 
-All datasets were sourced from publicly available repositories. Full citations are included in the project report.
+* All datasets were sourced from publicly available repositories. Full citations are included in the project report.
 
 🚀 How to Run
 
-Clone the repository:
+* Clone the repository:
 
+```python
 git clone https://github.com/your-username/Satellite-Data-Science.git
 cd Satellite-Data-Science
+```
 
-
-Install dependencies (preferably in a virtual environment):
-
+* Install dependencies (preferably in a virtual environment):
+```python
 pip install -r requirements.txt
-
+```
 
 Run individual Python scripts from the respective folders to reproduce analysis and visualizations.
 
 📌 Notes
 
-This project was completed as part of CS 332 – Intro to Applied Data Science.
+* This project was completed as part of CS 332 – Intro to Applied Data Science.
 
-The focus was on hands-on application of data science techniques, rather than production-ready pipelines.
+* The focus was on hands-on application of data science techniques, rather than production-ready pipelines.
 
 ✨ If you find this project useful or want to discuss data science and ML, feel free to connect or open an issue!
