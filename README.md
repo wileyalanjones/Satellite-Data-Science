@@ -5,7 +5,6 @@ This repository contains my Intro to Applied Data Science project: an analysis o
 On the front page, you’ll find the full paper: CS 332 Project Report, which details the methodology, experiments, and results.
 
 📂 Repository Structure
-
  * 📄 CS 332 Project Report → Main paper describing the analysis, methodology, and results.
  * 📁 Datasets → Raw datasets used in the analysis (downloaded from public sources, with full citations available in the paper).
  * 📁 Python Files →
@@ -33,11 +32,7 @@ On the front page, you’ll find the full paper: CS 332 Project Report, which de
  git clone https://github.com/your-username/Satellite-Data-Science.git
  cd Satellite-Data-Science
  ```
- * Install dependencies (preferably in a virtual environment):
- ```python
- pip install -r requirements.txt
- ```
- Run individual Python scripts from the respective folders to reproduce analysis and visualizations.
+  * Run individual Python scripts from the respective folders to reproduce analysis and visualizations.
 
 📌 Notes
  * This project was completed as part of CS 332 – Intro to Applied Data Science.
